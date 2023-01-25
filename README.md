@@ -6,7 +6,7 @@ from ABB company and are available with the third party’s permission
 
 We use 32x32-sized thermal Images of Switchgear equipment the images were captured by four infrared cameras monitoring low-voltage switchgear busbar cable connections. Cameras record a healthy baseline for a period of time, then several faults are introduced to the switchgear:
 
-![image](https://user-images.githubusercontent.com/61994098/214712262-d2fcbb87-a006-4045-80fa-097b1b560f3d.png)
+![image](https://user-images.githubusercontent.com/61994098/214712791-e5611101-979b-46ab-bec4-2dd0e70de591.png)
 
 The data ingested to proposed model according to below pipeline:
 
